@@ -27,7 +27,7 @@
     "@ngrx/store": "^8.4.0",
     "@ngrx/store-devtools": "^8.4.0",
     "angular-date-value-accessor": "~0.0.2",
-    "npm": "^6.12.0",
+    "npm": "^6.13.4",
     "rxjs": "~6.4.0",
     "semantic-ui-css": "~2.4.1",
     "tslib": "^1.9.0",
